@@ -39,19 +39,19 @@ Newman HTML report is included inside the `Reports` folder.
 
 ## Newman Report Screenshot
 
-![Newman Report](Screenshots/newman-report.png)
+![Newman Report](Screenshots/newman-report.png.png)
 
 ---
 
 ## Collection Run Result
 
-![Collection Run](Screenshots/collection-run.png)
+![Collection Run](Screenshots/collection-run.png.png)
 
 ---
 
 ## API Documentation
 
-![API Documentation](Screenshots/api-documentation.png)
+![API Documentation](Screenshots/api-documentation.png.png)
 ---
 
 ## Important Notes
